@@ -9,14 +9,14 @@ body {
 @font-face {
     
     font-family: 'Gotham-Xlight';
-    src:url(dansov/Tian/Gotham-Font/Gotham-Xlight.otf);
+    src:url(Tian/main/Gotham-Font/Gotham-Xlight.otf);
    
 }
 
 @font-face {
     
     font-family: 'GothamMedium';
-    src:url(dansov/Tian/Gotham-Font/GothamMedium.ttf);
+    src:url(Tian/main/Gotham-Font/GothamMedium.ttf);
     
 }
 
